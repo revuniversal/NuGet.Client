@@ -141,7 +141,7 @@
     <comment>0 - the license expression, 1 further details</comment>
   </data>
   <data name="InvalidLicenseExpressionVersion" xml:space="preserve">
-    <value>The version string '{0}' for the License Expression is invalid.</value>
+    <value>The version string '{0}' PackageLicenseExpressionVersion is invalid.</value>
     <comment>{0} version string</comment>
   </data>
   <data name="InvalidMinClientVersion" xml:space="preserve">

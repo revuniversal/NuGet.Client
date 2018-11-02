@@ -116,7 +116,7 @@ namespace NuGet.Build.Tasks.Pack {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The version string &apos;{0}&apos; for the License Expression is invalid..
+        ///   Looks up a localized string similar to The version string &apos;{0}&apos; PackageLicenseExpressionVersion is invalid..
         /// </summary>
         internal static string InvalidLicenseExpressionVersion {
             get {
