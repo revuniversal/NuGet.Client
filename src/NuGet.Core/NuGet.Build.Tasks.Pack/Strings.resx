@@ -169,7 +169,7 @@
     <value>No project was provided to the PackTask.</value>
   </data>
   <data name="NuGetLicenses_LicenseUrlCannotBeUsedInConjuctionWithLicense" xml:space="preserve">
-    <value>The PackageLicenseUrl cannot be used in conjunction with the PackageLicenseFile or PackageLicenseExpression.</value>
+    <value>The PackageLicenseUrl is being deprecated and cannot be used in conjunction with the PackageLicenseFile or PackageLicenseExpression.</value>
     <comment>Please don't localize PackageLicenseUrl, PackageLicenseFile and PackageLicenseExpression.</comment>
   </data>
 </root>

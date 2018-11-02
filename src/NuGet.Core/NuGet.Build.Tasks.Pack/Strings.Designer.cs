@@ -188,7 +188,7 @@ namespace NuGet.Build.Tasks.Pack {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The PackageLicenseUrl cannot be used in conjunction with the PackageLicenseFile or PackageLicenseExpression..
+        ///   Looks up a localized string similar to The PackageLicenseUrl is being deprecated and cannot be used in conjunction with the PackageLicenseFile or PackageLicenseExpression..
         /// </summary>
         internal static string NuGetLicenses_LicenseUrlCannotBeUsedInConjuctionWithLicense {
             get {
